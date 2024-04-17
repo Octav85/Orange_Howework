@@ -8,7 +8,6 @@ public class Operation_Square {
         System.out.println("Please Enter a number ");
 
         double number = scanner.nextDouble();
-
         double square = number * number;
 
         System.out.println(" The square of number is "  + square);
