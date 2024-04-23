@@ -1,6 +1,4 @@
-package Lesson2;
-
-import java.util.Scanner;
+package lesson2;
 
 public class MathOperations {
     public static void main(String[] args) {
