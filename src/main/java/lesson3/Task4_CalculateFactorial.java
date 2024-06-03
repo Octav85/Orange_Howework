@@ -11,7 +11,7 @@ public class Task4_CalculateFactorial {
 //Collect user input using nextInt method
         int input = scanner.nextInt();
 //check if input is <0
-        if (input < 0) {
+        if (input <0) {
             System.out.println("Error, this is a negative number");
             // return to new try
             return;
